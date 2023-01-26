@@ -2,45 +2,45 @@
 
 /* Descendant Selector */
 
-/* header li {
+header li {
   background-color: brown;
-} */
+}
 
 /* Child Selector */
 
-/* footer > p {
+footer > p {
   background-color: chartreuse;
-} */
+}
 
 /* Adjacent Sibling */
 
-/* h2 + p {
+h2 + p {
   background-color: orange;
-} */
+}
 
 /* General Sibling */
 
-/* h3 ~ p {
+h3 ~ p {
   background-color: cadetblue;
-} */
+}
 
 /* Flexbox */
 
-/* nav ul {
+nav ul {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-} */
+}
 
-/* main {
+main {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-} */
+}
 
-/* .flex-column {
+.flex-column {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   align-items: flex-start;
-} */
+}
